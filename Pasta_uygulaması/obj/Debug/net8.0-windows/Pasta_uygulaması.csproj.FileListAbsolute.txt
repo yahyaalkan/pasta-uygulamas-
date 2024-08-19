@@ -1,0 +1,16 @@
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\bin\Debug\net8.0-windows\Pasta_uygulaması.exe
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\bin\Debug\net8.0-windows\Pasta_uygulaması.deps.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\bin\Debug\net8.0-windows\Pasta_uygulaması.runtimeconfig.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\bin\Debug\net8.0-windows\Pasta_uygulaması.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\bin\Debug\net8.0-windows\Pasta_uygulaması.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.Form1.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.AssemblyInfoInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.AssemblyInfo.cs
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\refint\Pasta_uygulaması.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\Pasta_uygulaması.genruntimeconfig.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\Pasta_uygulaması\obj\Debug\net8.0-windows\ref\Pasta_uygulaması.dll
